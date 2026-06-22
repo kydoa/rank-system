@@ -131,7 +131,13 @@ java -cp target/classes com.project.App
 - Start reading the application entry at [src/main/java/com/project/App.java](src/main/java/com/project/App.java).
 - Inspect tests at [src/test/java/com/project/AppTest.java](src/test/java/com/project/AppTest.java) for usage examples.
 
-## Maintainers
+## Maintainers & Developers
+
+Developers:
+
+- [@kydoa](https://github.com/kydoa)
+- [@Tiago-BG](https://github.com/Tiago-BG)
+- [@MarianaNunesSantos](https://github.com/MarianaNunesSantos) 
 
 Maintainer:
 
